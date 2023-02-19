@@ -9,10 +9,8 @@ git clone  https://github.com/Noa-Fish/GameOfLife.git
 
 3. Compiler le programme :
 
-Après chaque modification sur le Main.cpp faire :
     g++ -c Main.cpp
-
-puis 'gcc Main.cpp -o Main.exe' pour compiler    
+    gcc Main.cpp -o Main.exe 
 
 4. Exécuter le programme :
 gcc c -o Main.exe Main.cpp
