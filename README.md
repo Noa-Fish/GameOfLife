@@ -6,11 +6,14 @@ Le Jeu de la Vie est un automate cellulaire imaginé par John Conway en 1970. Ce
 
 1. Cloner le dépôt Git :
 
-git clone  https://github.com/Noa-Fish/GameOfLife.git
+    git clone  https://github.com/Noa-Fish/GameOfLife.git
 
 2. Compiler le programme :
+    
+    1. Si le Main.cpp a été modifié
+    
+          g++ -c Main.cpp
 
-    g++ -c Main.cpp
     gcc Main.cpp -o Main.exe 
 
 3. Exécuter le programme :
