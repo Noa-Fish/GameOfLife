@@ -13,7 +13,7 @@ git clone  https://github.com/Noa-Fish/GameOfLife.git
     gcc Main.cpp -o Main.exe 
 
 4. Exécuter le programme :
-gcc c -o Main.exe Main.cpp
+    gcc c -o Main.exe Main.cpp
 
 
 ## Utilisation
