@@ -14,11 +14,11 @@ Le Jeu de la Vie est un automate cellulaire imaginé par John Conway en 1970. Ce
     
           g++ -c Main.cpp
 
-    gcc Main.cpp -o Main.exe 
+        gcc Main.cpp -o Main.exe 
 
 3. Exécuter le programme :
 
-    gcc c -o Main.exe Main.cpp
+        gcc c -o Main.exe Main.cpp
 
 
 ## Utilisation
