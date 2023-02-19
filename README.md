@@ -1,6 +1,6 @@
 # Jeu de la Vie
 
-Le Jeu de la Vie est un automate cellulaire imaginé par John Conway en 1970. Ce programme implémente le Jeu de la Vie en C++.
+Le Jeu de la vie est un automate cellulaire imaginé par John Horton Conway en 1970. Malgré des règles très simples, il est Turing-complet. C'est un jeu de simulation au sens mathématique. Ce programme implémente donc le Jeu de la Vie en C++.
 
 ## Installation
 
@@ -27,3 +27,7 @@ Le programme affiche une grille de cellules qui évoluent en fonction de règles
 2. Une cellule vivante avec deux ou trois voisines vivantes reste vivante.
 
 3. Dans tous les autres cas, la cellule meurt ou reste morte.
+
+##Crédit
+
+Ce programme a été réalisé par Noa Watel.
